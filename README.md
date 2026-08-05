@@ -42,6 +42,7 @@ Idra-Course-Assignment-Submission
 
 - Python 3
 - Jupyter Notebook
+- Google Colab
 - Git
 - GitHub
 
@@ -77,28 +78,6 @@ git clone https://github.com/Rudra-Patel-CS/Idra-Course-Assignment-Submission.gi
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudra-Patel-CS&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Patel-CS&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rudra-Patel-CS&theme=tokyonight"/>
-
-</div>
-
----
-
 # Contribution Graph
 
 <div align="center">
@@ -128,6 +107,9 @@ git clone https://github.com/Rudra-Patel-CS/Idra-Course-Assignment-Submission.gi
 </a>
 
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=IDRA+Course+Assignment+Submission;Python+Programming+Course;Learning+Through+Practice;Jupyter+Notebook+Projects" />
+</p>
 
 ---
 
@@ -138,3 +120,10 @@ git clone https://github.com/Rudra-Patel-CS/Idra-Course-Assignment-Submission.gi
 This repository will continue to grow as more assignments are completed throughout the course.
 
 </div>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Rudra-Patel-CS&style=for-the-badge&color=blue">
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4facfe,100:00f2fe"/>
