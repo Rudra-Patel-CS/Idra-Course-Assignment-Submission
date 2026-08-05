@@ -1,178 +1,140 @@
-# 🚀 IDRA Course Assignment Submission
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Assignments-Daily-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Course-IDRA-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Rudra-Patel-CS/Idra-Course-Assignment-Submission?style=for-the-badge" />
-</p>
+# IDRA Course Assignment Submission
 
-<h1 align="center">📚 IDRA Course Assignment Repository</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+IDRA+Course+Repository;Python+Programming+Assignments;Hands-on+Learning+Journey;Building+Skills+One+Assignment+at+a+Time" />
 
-<p align="center">
-A collection of all assignments completed during the <b>IDRA Python Programming Course</b>.
 <br>
-Each assignment is uploaded daily as part of the course learning journey.
-</p>
+
+<img src="https://img.shields.io/github/repo-size/Rudra-Patel-CS/Idra-Course-Assignment-Submission?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/Rudra-Patel-CS/Idra-Course-Assignment-Submission?style=for-the-badge">
+<img src="https://img.shields.io/github/license/Rudra-Patel-CS/Idra-Course-Assignment-Submission?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+
+</div>
 
 ---
 
-# 📖 About
+# About
 
-This repository contains all the assignments completed throughout my **1-Month IDRA Course**.
+This repository contains all programming assignments completed during the **IDRA Python Programming Course**.
 
-Every day, I solve and upload new programming assignments to strengthen my understanding of Python programming and improve my problem-solving skills.
+Every assignment is uploaded as an individual Jupyter Notebook and demonstrates the concepts learned throughout the course.
 
-The assignments cover fundamental to intermediate Python concepts through hands-on practice.
-
----
-
-# 🎯 Course Objectives
-
-- Learn Python Programming
-- Develop Problem-Solving Skills
-- Understand Programming Logic
-- Practice Daily Coding
-- Build Real-World Mini Projects
-- Improve Coding Standards
+The repository is intended to serve as a complete collection of my practical work and learning experience in Python programming.
 
 ---
 
-# 🗂️ Repository Structure
+# Repository Structure
 
 ```
-Idra-Course-Assignment-Submission/
-│
-├── Day_1_Calculator.ipynb
-├── Number_Guess_Game_Day_2.ipynb
-├── Day_3_Student_management_System.ipynb
-├── Day_4_...
-├── Day_5_...
-│
+Idra-Course-Assignment-Submission
+
+├── Assignment Files (.ipynb)
+├── Python Programs
+├── Practice Exercises
 └── README.md
 ```
 
-As the course progresses, new assignments will be added every day.
-
 ---
 
-# 📅 Assignment Progress
+# Technologies
 
-| Day | Assignment | Status |
-|-----|------------|--------|
-| ✅ Day 1 | Simple Calculator | ✔ Completed |
-| ✅ Day 2 | Number Guessing Game | ✔ Completed |
-| ✅ Day 3 | Student Management System | ✔ Completed |
-| ⏳ Day 4 | Coming Soon | 🚀 |
-| ⏳ Day 5 | Coming Soon | 🚀 |
-| ⏳ Day 6 | Coming Soon | 🚀 |
-| ⏳ Day 7 | Coming Soon | 🚀 |
-| ... | More Assignments | 📚 |
-
----
-
-# 🛠️ Technologies Used
-
-- 🐍 Python 3
+- Python 3
 - Jupyter Notebook
 - Git
 - GitHub
 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
-Throughout this course, assignments will include concepts such as:
-
-- Variables
-- Data Types
+- Python Fundamentals
+- Variables & Data Types
 - Operators
 - Conditional Statements
 - Loops
 - Functions
+- Strings
 - Lists
 - Tuples
 - Dictionaries
 - Sets
 - File Handling
 - Exception Handling
-- Object-Oriented Programming (OOP)
-- Modules & Packages
+- Modules
+- Object-Oriented Programming
 - Mini Projects
 - Problem Solving
 
 ---
 
-# 🚀 How to Use
-
-### Clone the Repository
+# Open Repository
 
 ```bash
 git clone https://github.com/Rudra-Patel-CS/Idra-Course-Assignment-Submission.git
 ```
 
-### Open the Repository
+---
 
-```bash
-cd Idra-Course-Assignment-Submission
-```
+# GitHub Statistics
 
-### Run Any Assignment
+<div align="center">
 
-Open the required `.ipynb` notebook in **Jupyter Notebook** or **Google Colab**.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudra-Patel-CS&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Patel-CS&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 🎓 Learning Journey
+# GitHub Streak
 
-This repository documents my daily progress throughout the **IDRA Course**.
+<div align="center">
 
-Each assignment reflects new concepts learned during the course and demonstrates consistent practice and improvement.
+<img src="https://streak-stats.demolab.com?user=Rudra-Patel-CS&theme=tokyonight"/>
 
----
-
-# 📈 Progress Tracker
-
-```
-Python Course Progress
-
-██████░░░░░░░░░░░░░░░░░░
-
-Completed : 3 / 30 Assignments
-```
-
-> 📌 This progress bar will be updated as I complete more assignments.
+</div>
 
 ---
 
-# 🤝 Contributions
+# Contribution Graph
 
-This repository is created for learning purposes.
+<div align="center">
 
-Suggestions and improvements are always welcome.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra-Patel-CS&theme=tokyo-night"/>
 
-If you have any ideas or feedback, feel free to open an issue or create a pull request.
-
----
-
-# 👨‍💻 Author
-
-## Rudra Patel
-
-🎓 B.Tech Computer Science Engineering
-
-💡 Passionate about Python, AI/ML, Cyber Security, and Open Source.
+</div>
 
 ---
 
-# ⭐ Support
-
-If you found this repository useful, please consider giving it a **Star ⭐**.
-
-It motivates me to continue learning and sharing my work.
-
----
+# Skills
 
 <p align="center">
-Made with ❤️ by <b>Rudra Patel</b>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter"/>
+
 </p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Rudra-Patel-CS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thank you for visiting this repository.
+
+This repository will continue to grow as more assignments are completed throughout the course.
+
+</div>
