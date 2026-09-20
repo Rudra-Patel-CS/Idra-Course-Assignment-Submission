@@ -1,0 +1,17 @@
+# Environments & Virtual Environments
+.venv/
+.venv*/
+env/
+venv/
+*.pyc
+__pycache__/
+
+# Node modules & build
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Temporary scratch
+scratch/
+scratch_restore/
