@@ -90,7 +90,7 @@ class PredictionResponse(BaseModel):
     purchase_intent: str = Field(..., description="Likely to Purchase OR Unlikely to Purchase")
     probability: float = Field(..., description="Confidence probability score (0.0 - 1.0)")
 
-@app.get("/")
+@app.get("/api")
 def read_root():
     return {
         "message": "E-Commerce Purchase Intent API",
