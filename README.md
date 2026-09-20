@@ -1,30 +1,21 @@
 # IDRA Course Assignment Submission
 
-A complete collection of my **India Data Research Academy (IDRA) Data Science & AI coursework submissions**, practical assignments, Jupyter/Google Colab notebooks, datasets, data-analysis exercises, machine-learning work, and final capstone project.
+A complete learning portfolio for my **India Data Research Academy (IDRA) Data Science & AI coursework**, containing practical assignments, Jupyter/Google Colab notebooks, datasets, data-analysis exercises, statistics, preprocessing, machine learning, and the final capstone project.
 
-This repository documents the progression from foundational Python programming and data handling through exploratory data analysis, statistics, preprocessing, machine learning, model evaluation, and a full-stack deployed ML application.
+This repository records the progression from **Python fundamentals to data science and a deployed machine-learning application**.
 
 ---
 
 ## Repository Overview
 
-This repository is organized as a practical learning portfolio covering the major stages of an introductory Data Science & AI workflow.
+This is the main repository for the IDRA course submissions.
 
-It contains:
+It contains two broad parts:
 
-- Python programming exercises
-- Console-based Python applications
-- NumPy practice
-- Pandas and dataset analysis
-- Data cleaning
-- Data preprocessing
-- Data visualization
-- Statistical analysis and probability
-- Machine learning
-- Model evaluation
-- Final IDRA capstone project
+1. **Daily / course assignments** covering programming, NumPy, Pandas, data cleaning, preprocessing, EDA, visualization, statistics, probability, regression, classification, and model evaluation.
+2. **Final Capstone Project** combining data science, machine learning, backend API development, frontend development, model integration, and deployment.
 
-The assignments are preserved separately so each practical can be reviewed independently along with its notebook and dataset where applicable.
+The work is kept as separate notebooks, datasets, and project folders so individual practicals can be reviewed independently.
 
 ---
 
@@ -47,9 +38,7 @@ Data Cleaning
         ↓
 Data Preprocessing
         ↓
-Exploratory Data Analysis
-        ↓
-Data Visualization
+EDA & Visualization
         ↓
 Statistics & Probability
         ↓
@@ -57,7 +46,7 @@ Machine Learning
         ↓
 Model Evaluation
         ↓
-IDRA Capstone Project
+Final Capstone
         ↓
 Full-Stack ML Application
         ↓
@@ -66,172 +55,36 @@ Deployment
 
 ---
 
-## Coursework
+# Coursework
 
 | Day | Assignment | Main Focus |
 |---|---|---|
 | Day 1 | Simple Calculator | Python basics, operators, input/output |
 | Day 2 | Number Guessing Game | Random numbers, loops, conditions |
 | Day 3 | Student Management System | Lists, dictionaries, CRUD operations |
-| Day 4 | Student Management / Expense Tracker Work | Python application logic and file handling |
+| Day 4 | Student Management / Expense Tracker Work | Application logic and file handling |
 | Day 5 | Library Management System | OOP, CSV handling, issue/return workflow |
-| Day 6 | NumPy Practice | Arrays, indexing, slicing, reshaping, operations |
+| Day 6 | NumPy Practice | Arrays, indexing, slicing, reshaping |
 | Day 7 | Dataset Summary Report | Pandas inspection and descriptive analysis |
-| Day 8 | E-Commerce Sales Analysis | Filtering, sorting, grouping and aggregation |
-| Day 9 | Processed E-Commerce Dataset | Merging, concatenation, dates and feature creation |
-| Day 10 | Flight Operations Data Analysis | Business-oriented EDA and operational analysis |
-| Day 11 | Cleaned Company Employee Dataset | Missing values, duplicates, data types, consistency |
-| Day 12 | Used Car Data Preprocessing | Outliers, encoding, scaling and leakage prevention |
-| Day 13 | Restaurant Branch Performance EDA | Business EDA, relationships, correlations, insights |
+| Day 8 | E-Commerce Sales Analysis | Filtering, grouping, aggregation |
+| Day 9 | Processed E-Commerce Dataset | Merge, concat, dates, feature creation |
+| Day 10 | Flight Operations Data Analysis | Operational EDA and business analysis |
+| Day 11 | Cleaned Company Employee Dataset | Missing values, duplicates, consistency |
+| Day 12 | Used Car Data Preprocessing | Outliers, encoding, scaling, leakage prevention |
+| Day 13 | Restaurant Branch Performance EDA | Business EDA and correlations |
 | Day 14 | Food Delivery Visualization Portfolio | Visualization and comparative analysis |
-| Day 15 | Executive Hotel Booking EDA | Large-dataset EDA and executive reporting |
-| Day 16 | Student Wellbeing Statistical Analysis & Probability | Statistics, probability, conditional probability and Bayes |
-| Day 18 & 19 | Student Performance Prediction & Model Evaluation | Regression, classification and model evaluation |
-| Final | IDRA Capstone Project | End-to-end Data Science, ML, API, frontend and deployment |
+| Day 15 | Executive Hotel Booking EDA | Large-dataset EDA and reporting |
+| Day 16 | Student Wellbeing Statistical Analysis & Probability | Statistics and probability |
+| Day 18 & 19 | Student Performance Prediction & Model Evaluation | Regression, classification, evaluation |
+| Final | IDRA Capstone Project | End-to-end ML application |
 
----
-
-# Skills Demonstrated
-
-## Python
-
-- Variables and data types
-- Input and output
-- Operators
-- Conditional statements
-- Loops
-- Functions
-- Lists and dictionaries
-- Exception handling
-- File handling
-- Object-oriented programming
-- Menu-driven applications
-
-## NumPy
-
-- Array creation
-- One-dimensional, two-dimensional and higher-dimensional arrays
-- Indexing and slicing
-- Reshaping
-- Numerical operations
-- Boolean masking
-- Broadcasting
-- Aggregations
-
-## Pandas
-
-- CSV loading
-- Dataset inspection
-- Data selection
-- Filtering
-- Sorting
-- GroupBy
-- Aggregation
-- Merge
-- Concatenation
-- Date/time handling
-- Missing-value analysis
-- Duplicate detection
-- Data export
-
-## Data Cleaning
-
-The cleaning assignments work with common real-world data-quality issues:
-
-```text
-Missing Values
-Duplicates
-Inconsistent Categories
-Incorrect Data Types
-String Standardization
-Numeric Conversion
-Date Conversion
-Validation
-```
-
-Typical techniques used include:
-
-- `isnull()`
-- `fillna()`
-- `dropna()`
-- `drop_duplicates()`
-- mean/median/mode imputation
-- forward filling where appropriate
-- type conversion and validation
-
-## Data Preprocessing
-
-The preprocessing work covers:
-
-- Outlier detection
-- IQR-based handling
-- Ordinal encoding
-- One-hot encoding
-- Feature scaling
-- Train/test split
-- Scikit-learn preprocessing pipelines
-- Data leakage prevention
-
-## Exploratory Data Analysis
-
-The EDA work includes:
-
-- Dataset structure and quality checks
-- Descriptive statistics
-- Univariate analysis
-- Categorical analysis
-- Group comparisons
-- Bivariate relationships
-- Correlation analysis
-- Outlier investigation
-- Business-oriented insights
-- Interpreted visualizations
-
-## Statistics & Probability
-
-The statistical work includes:
-
-- Mean
-- Median
-- Mode
-- Standard deviation
-- Quartiles
-- IQR
-- Z-score
-- Probability
-- Conditional probability
-- Independence
-- Mutually exclusive events
-- Bayes' theorem
-- Empirical-rule analysis
-
-## Machine Learning
-
-The machine-learning work demonstrates:
-
-- Regression
-- Classification
-- Feature selection
-- Preprocessing
-- Train/test splitting
-- Prediction
-- Model evaluation
-- Confusion matrices
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- MAE
-- MSE
-- RMSE
-- R²
-- Overfitting and underfitting analysis
+> Day 17 is not represented as a separate assignment folder in the current repository structure.
 
 ---
 
 # Repository Structure
 
-The current repository contains assignment folders, notebooks, datasets, and the final capstone project.
+The current repository contains dedicated assignment folders for the later coursework, early notebooks/datasets at the root, and a complete capstone application.
 
 ```text
 Idra-Course-Assignment-Submission/
@@ -261,201 +114,347 @@ Idra-Course-Assignment-Submission/
 │   ├── data/
 │   ├── notebook/
 │   ├── Ref. Material To Do This/
-│   ├── build.sh
-│   └── README.md
+│   ├── Capstone_Final_Project_By_Rudra_Patel.ipynb
+│   └── build.sh
 │
 ├── .gitignore
 ├── build.sh
+├── Day_1_Calculator.ipynb
+├── Number_Guess_Game_Day_2.ipynb
+├── Day_3_Student_management_System.ipynb
+├── Student_Management_System_Day_4.ipynb
+├── Day_5_Library_Management_System.ipynb
+├── Day_6_Practisebook.ipynb
+├── Day_7_Datset_Summary_report.ipynb
+├── Day_8_E_commerce_Sales_Analysis.ipynb
 └── README.md
 ```
 
-The repository also contains several early notebooks and datasets at the root level from the progression of the coursework.
+---
+
+# Python Foundation
+
+The first part of the course focuses on building programming fundamentals before moving into data science.
+
+## Day 1 — Simple Calculator
+
+Practices:
+
+- numeric input
+- arithmetic operators
+- division
+- floor division
+- modulus
+- exponentiation
+- formatted output
+
+## Day 2 — Number Guessing Game
+
+Practices:
+
+- random number generation
+- loops
+- conditional statements
+- user input
+- attempt tracking
+
+## Day 3 — Student Management System
+
+Practices:
+
+- lists
+- dictionaries
+- CRUD operations
+- search
+- update
+- delete
+- menu-driven programming
+
+## Day 4 — Application Practice
+
+Continues Python application development and structured data/file handling.
+
+## Day 5 — Library Management System
+
+Practices:
+
+- object-oriented programming
+- books and members
+- issue/return workflow
+- due dates
+- fines
+- CSV storage
+- menu-driven application design
+
+## Day 6 — NumPy Practice
+
+Practices:
+
+- array creation
+- dimensions
+- indexing
+- slicing
+- reshaping
+- numerical operations
+- boolean masking
+- broadcasting
+- aggregation
 
 ---
 
-# Notebooks & Datasets
+# Data Analysis Assignments
 
-Where applicable, each assignment stores its working notebook together with the source dataset.
+## Day 7 — Dataset Summary Report
 
-Examples from the repository include:
+Covers:
 
-### Data Analysis
+- dataset loading
+- shape and columns
+- data types
+- missing values
+- descriptive statistics
+- unique values
+- basic observations
 
-```text
-Day 7 Assignment/
-Day 8 Assignment/
-Day 9 Assignment/
-Day 10 Assignment/
-```
+## Day 8 — E-Commerce Sales Analysis
 
-### Data Cleaning & Preprocessing
+Covers:
 
-```text
-Day 11 Assignment/
-Day 12 Assignment/
-```
+- sales totals
+- averages
+- products
+- categories
+- cities
+- payment methods
+- grouping
+- sorting
+- aggregation
+- business observations
 
-### EDA & Visualization
+## Day 9 — Processed E-Commerce Dataset
 
-```text
-Day 13 Assignment/
-Day 14 Assignment/
-Day 15 Assignment/
-```
+Covers:
 
-### Statistics & Machine Learning
+- multiple CSV files
+- merging datasets
+- concatenation
+- date conversion
+- date feature extraction
+- `apply()`
+- derived features
+- final dataset export
 
-```text
-Day 16 Assignment/
-Day 18,19 Assignment/
-```
+## Day 10 — Flight Operations Data Analysis
 
-This structure keeps the coursework traceable from the original dataset to the notebook-based analysis.
+Covers:
 
----
-
-# Assignment Highlights
-
-## Python Application Development
-
-The early practicals transform basic Python concepts into small working applications:
-
-- Simple Calculator
-- Number Guessing Game
-- Student Management System
-- Expense Tracker work
-- Library Management System
-
-These assignments establish the programming foundation used in later analytical work.
-
----
-
-## Data Analysis
-
-The repository then moves into practical dataset analysis using Pandas.
-
-Examples include:
-
-- Student dataset summaries
-- E-commerce sales analysis
-- Multi-table e-commerce processing
-- Flight operations analysis
-- Restaurant performance analysis
-- Food delivery analysis
-- Hotel booking analysis
-
-The notebooks demonstrate how raw tabular data can be inspected, transformed, analyzed and interpreted.
+- airline analysis
+- passenger analysis
+- delays
+- weather
+- routes
+- aircraft
+- travel class
+- booking channel
+- load factor
+- estimated revenue
+- operational insights
 
 ---
 
-## Data Cleaning & Preprocessing
+# Data Cleaning & Preprocessing
 
-The Day 11 and Day 12 assignments focus on preparing real-world-style datasets for reliable analysis and machine learning.
+## Day 11 — Company Employee Dataset Cleaning
 
-```text
-Raw Dataset
-    ↓
-Inspection
-    ↓
-Missing-Value Analysis
-    ↓
-Duplicate Detection
-    ↓
-Data-Type Validation
-    ↓
-Inconsistency Handling
-    ↓
-Outlier Handling
-    ↓
-Encoding
-    ↓
-Scaling
-    ↓
-Processed Dataset
-```
+The messy employee dataset is cleaned using:
 
----
+- `isnull()`
+- `fillna()`
+- mean/median/mode imputation
+- duplicate detection
+- `drop_duplicates()`
+- categorical standardization
+- string cleaning
+- numerical conversion
+- date conversion
+- before/after validation
+- cleaned CSV export
 
-## Statistics & Probability
+## Day 12 — Used Car Data Preprocessing
 
-The statistical assignment develops quantitative reasoning beyond simple descriptive analysis.
+The used-car workflow demonstrates:
 
-```text
-Descriptive Statistics
-        ↓
-Distribution Analysis
-        ↓
-Probability
-        ↓
-Conditional Probability
-        ↓
-Independence
-        ↓
-Bayes' Theorem
-        ↓
-Statistical Interpretation
-```
+- numerical and categorical feature identification
+- IQR-based outlier handling
+- feature/target separation
+- ordinal encoding
+- one-hot encoding
+- standardization
+- train/test split
+- training-only fitting of preprocessing transformations
+- verification of processed data
+
+The workflow specifically demonstrates how to avoid **data leakage** by fitting transformations on training data and only transforming the test data.
 
 ---
 
-# Machine Learning Assignment
+# Exploratory Data Analysis & Visualization
 
-The Day 18 & 19 assignment applies a complete machine-learning workflow to student performance data.
+## Day 13 — Restaurant Branch Performance
 
-```text
-Student Dataset
-      ↓
-EDA
-      ↓
-Data Preparation
-      ↓
-Feature Selection
-      ↓
-Train/Test Split
-      ↓
-Preprocessing
-      ↓
-Linear Regression
-      ↓
-Regression Evaluation
-      ↓
-Pass/Fail Target
-      ↓
-Classification
-      ↓
-Confusion Matrix
-      ↓
-Accuracy / Precision / Recall / F1
-      ↓
-Training vs Testing Comparison
-```
+The analysis covers:
 
-The analysis explores student habits and performance factors such as study time, attendance, sleep, social-media usage, entertainment usage, exercise, and mental-health-related variables.
+- revenue
+- profit
+- customers
+- orders
+- marketing spend
+- branch comparisons
+- regional comparisons
+- store types
+- customer ratings
+- delivery time
+- correlations
+- outliers
+- business insights
+
+## Day 14 — Food Delivery Visualization Portfolio
+
+The visualization work covers:
+
+- time-series analysis
+- city comparisons
+- cuisine analysis
+- order channels
+- weather
+- revenue
+- orders
+- marketing spend
+- delivery time
+- ratings
+- distributions
+- box plots
+- scatter plots
+- correlation analysis
+
+## Day 15 — Executive Hotel Booking EDA
+
+The larger hotel-booking dataset is analyzed through:
+
+- reservation status
+- cancellations
+- hotel type
+- market segment
+- lead time
+- ADR
+- stay duration
+- customer type
+- room information
+- special requests
+- satisfaction
+- revenue
+- relationships
+- outliers
+- executive-level insights
 
 ---
 
-# Final IDRA Capstone Project
+# Statistics & Probability
 
-The final capstone is maintained separately under:
+## Day 16 — Student Wellbeing Statistical Analysis
+
+The assignment applies:
+
+- mean
+- median
+- mode
+- standard deviation
+- quartiles
+- IQR
+- outlier detection
+- z-scores
+- empirical rule
+- probability
+- conditional probability
+- mutually exclusive events
+- independence
+- Bayes' theorem
+
+This assignment moves the coursework from descriptive analysis toward quantitative statistical reasoning.
+
+---
+
+# Machine Learning
+
+## Day 18 & 19 — Student Performance Prediction
+
+The assignment applies a complete ML workflow to student-performance data.
+
+### Regression
+
+`exam_score` is used as the regression target.
+
+The workflow includes:
+
+- EDA
+- numerical/categorical feature identification
+- missing-value handling
+- feature selection
+- train/test split
+- preprocessing
+- Linear Regression
+- prediction
+- MAE
+- MSE
+- RMSE
+- R²
+- actual vs predicted analysis
+
+### Classification
+
+The regression target is converted into:
+
+```text
+exam_score >= 50 → Pass
+exam_score < 50  → Fail
+```
+
+Logistic Regression is then used for classification.
+
+Evaluation includes:
+
+- confusion matrix
+- accuracy
+- precision
+- recall
+- F1-score
+- classification report
+- training vs testing comparison
+
+The assignment also discusses possible overfitting and underfitting based on training and testing performance.
+
+---
+
+# Final IDRA Capstone
+
+## Online Shopping Behaviour: Analysing Customer Activity and Predicting Purchase Intent
+
+The final capstone is maintained in:
 
 ```text
 Final Capstone Project/
 ```
 
-## Project Title
+The project analyzes online-shopping/session behaviour and predicts whether a session results in a purchase.
 
-**Online Shopping Behaviour: Analysing Customer Activity and Predicting Purchase Intent**
-
-The capstone analyzes online-shopping session behaviour and predicts whether a shopping session results in a purchase.
-
-The documented original dataset contains:
+### Dataset
 
 ```text
 25,000 rows
 29 columns
 ```
 
-The target variable is:
+Target:
 
 ```text
 purchased
@@ -463,68 +462,59 @@ purchased
 1 → Purchased
 ```
 
+The capstone extends the coursework into a complete deployed machine-learning application.
+
 ---
 
 ## Capstone Workflow
 
 ```text
-Raw E-Commerce Dataset
-        ↓
+Raw Dataset
+    ↓
 Data Understanding
-        ↓
+    ↓
 Data Cleaning
-        ↓
-Exploratory Data Analysis
-        ↓
+    ↓
+EDA
+    ↓
 Statistical Analysis
-        ↓
+    ↓
 Feature Engineering
-        ↓
+    ↓
 Leakage Prevention
-        ↓
+    ↓
 Train/Test Split
-        ↓
+    ↓
 Preprocessing
-        ↓
+    ↓
 Model Training
-        ↓
+    ↓
 Model Evaluation
-        ↓
+    ↓
 Model Packaging
-        ↓
+    ↓
 FastAPI Backend
-        ↓
+    ↓
 React Frontend
-        ↓
+    ↓
 Deployment
 ```
 
-The capstone brings together the main skills developed throughout the coursework and turns them into a complete machine-learning application.
-
 ---
 
-# Capstone Data Preparation
+## Capstone Data Cleaning
 
-The capstone data workflow includes:
+The capstone workflow includes:
 
-- Dataset auditing
-- Missing-value analysis
-- Duplicate analysis
-- Data cleaning
+- dataset audit
+- dimensions and data types
+- missing-value analysis
+- duplicate analysis
+- target analysis
 - EDA
-- Statistical analysis
-- Feature engineering
-- Train/test splitting
-- Preprocessing
-- Classification model training
-- Model evaluation
-- Model packaging
-
-The cleaned dataset is stored at:
-
-```text
-Final Capstone Project/data/P_10_Ecommerce_Cleaned.csv
-```
+- statistical analysis
+- feature engineering
+- model preparation
 
 The documented final cleaning validation is:
 
@@ -535,17 +525,23 @@ Missing values:   0
 Duplicate rows:   0
 ```
 
+Cleaned dataset:
+
+```text
+Final Capstone Project/data/P_10_Ecommerce_Cleaned.csv
+```
+
 ---
 
-# Capstone Feature Engineering & Leakage Prevention
+## Capstone Feature Engineering
 
-The prediction target is:
+The target variable is:
 
 ```text
 purchased
 ```
 
-The following outcome-related variables are excluded from prediction features:
+Outcome-related variables excluded from model features:
 
 ```text
 purchased
@@ -554,15 +550,22 @@ revenue_normalized
 cart_abandoned
 ```
 
-The raw `visit_date` field is converted into temporal features before being removed from the model input.
+The raw `visit_date` is converted into temporal features such as:
 
-This keeps the prediction problem separate from information that can directly reveal or encode the final outcome.
+```text
+visit_year
+visit_day_of_year
+```
+
+The raw date is then removed from the model input.
+
+This prevents outcome information from being incorrectly used as a prediction feature.
 
 ---
 
 # Capstone Machine Learning
 
-Three classification models are part of the capstone workflow:
+The project trains three classification models:
 
 ```text
 Logistic Regression
@@ -570,28 +573,32 @@ Decision Tree
 Random Forest
 ```
 
-The documented split configuration is:
+### Train/Test Configuration
 
 ```text
-Training: 80%
-Testing: 20%
+Training data: 80%
+Testing data: 20%
 random_state: 42
 stratification: enabled
 ```
 
-Preprocessing includes:
+### Preprocessing
+
+Numerical features:
 
 ```text
-Numerical Features
-        ↓
 StandardScaler
+```
 
-Categorical Features
-        ↓
+Categorical features:
+
+```text
 OneHotEncoder(handle_unknown="ignore")
 ```
 
-The project evaluates the models using:
+### Evaluation
+
+The project evaluates models using:
 
 - Accuracy
 - Precision
@@ -601,43 +608,43 @@ The project evaluates the models using:
 - Confusion matrices
 - ROC curves
 
-Actual metric values should be taken from the capstone notebook/application outputs.
+Exact metric values are intentionally not duplicated here; the actual notebook/application outputs are the authoritative source for the final model results.
 
 ---
 
 # Capstone Model Artifact
 
-The trained prediction pipeline is stored at:
+The packaged trained pipeline is stored at:
 
 ```text
 Final Capstone Project/model/P10_purchase_intent_model.joblib
 ```
 
-The saved artifact contains the preprocessing and trained classification pipeline used by the application.
+The saved artifact contains the preprocessing and trained classifier pipeline used by the application.
 
 ---
 
 # Capstone Application Architecture
 
 ```text
-                     React Frontend
-                            │
-                       HTTP / JSON
-                            │
-                            ▼
-                     FastAPI Backend
-                            │
-                            ▼
-             P10_purchase_intent_model.joblib
-                            │
-                            ▼
-                Prediction + Probability
-                            │
-                            ▼
-                     React Result UI
+                    React Frontend
+                          │
+                     HTTP / JSON
+                          │
+                          ▼
+                   FastAPI Backend
+                          │
+                          ▼
+            P10_purchase_intent_model.joblib
+                          │
+                          ▼
+              Prediction + Probability
+                          │
+                          ▼
+                   React Result UI
 ```
 
-The model is loaded by the Python backend rather than directly by the frontend.
+The frontend does not directly load the machine-learning model. The Python/FastAPI backend loads the saved pipeline and handles prediction requests.
 
 ---
 
@@ -649,20 +656,18 @@ Location:
 Final Capstone Project/backend/
 ```
 
-Main technologies:
+Technologies:
 
-```text
-Python
-FastAPI
-Uvicorn
-Pandas
-NumPy
-Scikit-learn
-Joblib
-Pydantic
-```
+- Python
+- FastAPI
+- Uvicorn
+- Pandas
+- NumPy
+- Scikit-learn
+- Joblib
+- Pydantic
 
-The current backend documentation includes routes for:
+Documented API routes include:
 
 ```text
 GET  /
@@ -684,19 +689,17 @@ Location:
 Final Capstone Project/frontend/
 ```
 
-Main technologies:
+Technologies:
 
-```text
-React 18
-Vite
-Tailwind CSS
-Axios
-React Router
-Recharts
-Lucide React
-```
+- React 18
+- Vite
+- Tailwind CSS
+- Axios
+- React Router
+- Recharts
+- Lucide React
 
-The application includes major sections for:
+Main application areas:
 
 - Dashboard
 - Analytics
@@ -732,32 +735,14 @@ The frontend uses Vite for local development and communicates with the FastAPI b
 
 # Capstone Deployment
 
-The completed capstone application is deployed on Render.
+The completed application is deployed on Render:
 
-**Live Application**
-
+**Live Application:**  
 https://ecommerce-purchase-prediction-uueb.onrender.com
 
 ---
 
-# Engineering Practices
-
-The repository follows practical data-science and software-development principles:
-
-- Keep assignments organized and traceable.
-- Keep notebooks alongside their supporting datasets where applicable.
-- Use actual analysis results rather than fabricated statistics.
-- Separate prediction features from outcome-related variables.
-- Use preprocessing pipelines for consistent transformations.
-- Preserve the trained capstone model artifact.
-- Keep environment files and dependency/build directories out of version control.
-- Keep the final capstone application separated from individual coursework assignments.
-
-The repository also includes a `.gitignore` covering common Python environments, bytecode, Node modules, build artifacts, and temporary directories.
-
----
-
-# Technologies
+# Technologies Used Across the Repository
 
 | Area | Technologies |
 |---|---|
@@ -771,14 +756,38 @@ The repository also includes a `.gitignore` covering common Python environments,
 | Frontend | React, Vite |
 | Styling | Tailwind CSS |
 | API Communication | Axios |
-| Deployment | Render |
 | Notebook Environment | Jupyter / Google Colab |
+| Deployment | Render |
+
+---
+
+# Engineering & Data Science Practices
+
+The repository emphasizes:
+
+- reproducible notebook workflows
+- dataset inspection before analysis
+- explicit cleaning decisions
+- appropriate missing-value treatment
+- duplicate detection
+- categorical standardization
+- outlier investigation
+- feature/target separation
+- preprocessing pipelines
+- train/test separation
+- leakage prevention
+- multiple model-evaluation metrics
+- training/testing comparison
+- preservation of the final trained model
+- separation of frontend, backend, model and data components
+
+The repository-level `.gitignore` also excludes common Python environments, bytecode, Node modules, build output, and temporary directories.
 
 ---
 
 # Learning Outcomes
 
-This repository demonstrates progression across a complete introductory Data Science & AI curriculum:
+By progressing through these assignments, the repository demonstrates practical experience with:
 
 ```text
 Programming
@@ -799,12 +808,14 @@ Machine Learning
     ↓
 Model Evaluation
     ↓
-Application Development
+API Development
+    ↓
+Frontend Integration
     ↓
 Deployment
 ```
 
-The final capstone integrates these skills into a practical end-to-end machine-learning application.
+The daily assignments demonstrate individual skills, while the final capstone combines those skills into one end-to-end Data Science and Machine Learning application.
 
 ---
 
@@ -828,7 +839,7 @@ GitHub: [Rudra-Patel-CS](https://github.com/Rudra-Patel-CS)
 
 ## Final Perspective
 
-This repository represents the progression from foundational programming exercises to practical data analysis and finally to a deployed machine-learning application.
+This repository represents the complete progression of the IDRA coursework:
 
 ```text
 Learn
@@ -849,3 +860,5 @@ Build
   ↓
 Deploy
 ```
+
+The result is a single portfolio containing the coursework assignments and a final deployed capstone that demonstrates how those individual skills come together in a practical Data Science & AI project.
