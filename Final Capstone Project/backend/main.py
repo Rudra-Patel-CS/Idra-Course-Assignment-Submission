@@ -3,6 +3,8 @@ import datetime
 from typing import Optional, List, Dict, Any
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
 import pandas as pd
 import numpy as np
@@ -408,3 +410,19 @@ def get_model_performance():
             }
         ]
     }
+
+# SPA Static File Handler (Supports Single-Service Deployment)
+FRONTEND_DIST = os.path.abspath(os.path.join(BASE_DIR, "..", "frontend", "dist"))
+if os.path.exists(FRONTEND_DIST):
+    app.mount("/assets", StaticFiles(directory=os.path.join(FRONTEND_DIST, "assets")), name="assets")
+
+    @app.get("/{full_path:path}")
+    def serve_spa(full_path: str):
+        # Allow API routes to be handled by FastAPI
+        if full_path.startswith("health") or full_path.startswith("model-info") or full_path.startswith("predict") or full_path.startswith("analytics"):
+            raise HTTPException(status_code=404, detail="API route not found")
+        index_file = os.path.join(FRONTEND_DIST, "index.html")
+        if os.path.exists(index_file):
+            return FileResponse(index_file)
+        raise HTTPException(status_code=404, detail="Frontend index.html not found")
+
